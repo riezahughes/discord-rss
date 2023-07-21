@@ -1,0 +1,10 @@
+[
+	{
+		"id": "upwork",
+		"url": "https://www.upwork.com/en-gb/nx/jobs/search/?sort=recency&user_location_match=1&t=0,1&contractor_tier=1,2,3&client_hires=0,1-9,10-&proposals=0-4,5-9&amount=0-99,100-499,500-999,1000-4999,5000-&duration_v3=weeks,months&payment_verified=1"
+	},
+	{
+		"id": "yunojuno",
+		"url": "https://app.yunojuno.com/briefs/e9bc371b-c211-4294-b06a-7404a17c7c87/rss/?status=%5B%5D&time=%5B%5D&location=%5B%5D&roles=%5B%5D&hidden=%5B%22HIDE%22%5D&order=%5B%22NEWEST%22%5D"
+	}
+]
